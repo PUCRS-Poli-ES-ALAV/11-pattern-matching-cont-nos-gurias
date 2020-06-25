@@ -1,5 +1,10 @@
 package com.pucrs;
 
+/**
+ * Autores: Bianca Camargo, Camila Borba e Jéssica Manoel;
+ * A complexidade deste algoritmo é linear.
+ */
+
 import javax.swing.*;
 
 public class Main {
